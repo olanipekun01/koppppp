@@ -1,0 +1,37 @@
+.react-tel-input {
+}
+
+.react-tel-input .form-control {
+    flex-shrink: 1;
+    appearance: none;
+    height: 3rem;
+    padding-left: 3rem;
+    padding-right: 1rem;
+    font-size: 1rem;
+    line-height: 2;
+    line-height: 1.5rem;
+    border-radius: 0.5rem;
+    border-width: 1px;
+    border-color: #FFFFFF80;
+    --tw-bg-opacity: 1;
+    background: transparent;
+    width: 100%;
+    color: #fff;
+}
+
+
+.react-tel-input .form_control .flag-dropdown {
+    background: #25133A;
+}
+
+.react-tel-input .selected-flag {
+    background: #25133A;
+}
+
+.react-tel-input .selected-flag:hover, .react-tel-input .selected-flag:focus {
+    background: #25133A;
+}
+
+.react-tel-input .form_control .flag-dropdown .selected-flag .flag {
+    background: #25133A;
+}
